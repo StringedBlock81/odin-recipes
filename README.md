@@ -1,1 +1,2 @@
 # odin-recipes
+This project will be about making a recipes website in an HTML document, in hopes to try and test my newly learned skills in html coding, git committing and pushing, as well as develope and improve my documentation skills.
