@@ -1,0 +1,26 @@
+body {
+    font-family: "Times New Roman", Arial, sans-serif;
+}
+
+.title {
+    text-align: center;
+    background-color: red;
+    color: yellow;
+}
+
+.dishes {
+    text-align: center;
+    background-color: rgb(25, 158, 145);
+    font-size: 18px;
+}
+
+.butter {
+    background-color: #ffae42;
+    color: yellow;
+}
+
+.shakshuka {
+    background: #c71585;
+    color: lightcoral;
+}
+
