@@ -8,11 +8,13 @@ body {
 .time,
 .serving,
 .process,
-.end {
+.end,
+.links {
     text-align: center;
 }
 
 *{
     background-color: pink;
     color: blue;
+    text-align: center;
 }
