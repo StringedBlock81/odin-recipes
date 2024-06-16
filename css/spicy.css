@@ -1,0 +1,9 @@
+body {
+    font-family: "Times New Roman", arial, sans-serif;
+}
+
+*{
+    text-align: center;
+    background-color: black;
+    color: yellow;
+}
