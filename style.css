@@ -1,26 +1,48 @@
+* {
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    color: #ffc93c;
+}
+
+*,
+* ::before,
+* ::after {
+    box-sizing: border-box;
+}
+
 body {
-    font-family: "Times New Roman", Arial, sans-serif;
+    background-color: #155263;
 }
 
 .title {
-    text-align: center;
-    background-color: red;
-    color: yellow;
+    color: #ffc93c;
+    margin: 40px auto;
+    border: 5px double #ff6f3c;
+    width: 600px;
 }
 
 .dishes {
-    text-align: center;
-    background-color: rgb(25, 158, 145);
-    font-size: 18px;
+    width: 600px;
+    margin: 20px auto;
+    border: 2px dotted #ff6f3c;
+}
+
+li {
+    display: inline-block;
 }
 
 .butter {
-    background-color: #ffae42;
-    color: yellow;
+    margin: 5px auto;
+    padding: 10px;
 }
 
 .shakshuka {
-    background: #c71585;
-    color: lightcoral;
+    margin: 5px auto;
+    padding: 10px;
 }
 
+.spicy {
+    margin: 5px auto;
+    padding: 10px;
+}
